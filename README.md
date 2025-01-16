@@ -1,1 +1,3 @@
 ﻿# IISC_Numerical_Optimization_2025
+
+# Lecture 02 : This module covers the application of least squares optimization techniques for solving linear regression problems. It demonstrates how to estimate the coefficients of a linear model by minimizing the sum of squared errors between the predicted and actual values. The lecture explores various methods, including the normal equation, QR decomposition, singular value decomposition (SVD), and eigen decomposition, to solve for the optimal coefficients. These techniques are fundamental for understanding numerical optimization and efficient computation in regression analysis.
